@@ -4,6 +4,8 @@
 
 UrbanPulse AI is a web application that demonstrates how Artificial Intelligence can support sustainability by helping citizens report local community issues and automatically prioritizing them using AI analysis.
 
+## recommend to use python venv for this project
+
 ## 🌍 Project Overview
 
 This project aligns with **UN Sustainable Development Goal 11: Sustainable Cities and Communities**. It empowers citizens to report sustainability-related issues such as:
